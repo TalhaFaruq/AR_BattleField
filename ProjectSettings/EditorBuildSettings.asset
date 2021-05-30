@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: 57233f249101c584a8b51020af69feef
+  - enabled: 1
+    path: Assets/_MYScenes/MainMenu.unity
+    guid: e5b86a814670aef4d92f1fd80a5995b6
+  - enabled: 1
+    path: Assets/_MYScenes/Forest_Scene.unity
+    guid: 98edf7ca89a976e4e873e09e39547e1b
+  - enabled: 1
+    path: Assets/_MYScenes/Hangar.unity
+    guid: 041c9849c1427104ab78c9b4bb17050b
+  - enabled: 1
+    path: Assets/_MYScenes/Level_3.unity
+    guid: e6fde5e3544e8144ca3160b129475d68
+  - enabled: 1
+    path: Assets/_MYScenes/Game.unity
+    guid: 6c2cabc13831c07459a9b6839d939595
+  m_configObjects: {}
